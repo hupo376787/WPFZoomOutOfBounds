@@ -3,6 +3,7 @@
 
 Solution
 
+
 <Grid x:Name="gridMain" ClipToBounds="True">
   
   
