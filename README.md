@@ -4,7 +4,7 @@
 Solution
 
 
-<Grid x:Name="gridMain" ClipToBounds="True">
+`<Grid x:Name="gridMain" ClipToBounds="True">`
   
   
   
